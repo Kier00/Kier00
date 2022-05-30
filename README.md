@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Kier00
+- 👀 I’m interested in anything hacking/Gamedev
+- 🌱 I’m currently learning Python/WebDev/Webhacking
+- 💞️ I’m looking to collaborate on nothing in Particular
+- 📫 How to reach me (I'm not currently looking to be reached)
